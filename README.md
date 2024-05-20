@@ -92,8 +92,8 @@ chat-application/
 ## Output
 
 ![WhatsApp Image 2024-05-11 at 14 10 22_74ef05a4](https://github.com/Janani-m17/Chat-Application_MERN-Stack/assets/124059957/0e3fa7d3-4b88-4d2a-b105-63add4ed9975)
-![WhatsApp Image 2024-05-11 at 14 39 21_4217d336](https://github.com/Janani-m17/Chat-Application_MERN-Stack/assets/124059957/8ed0ecb2-56a5-49de-b343-a3eebcfe393f)
 ![WhatsApp Image 2024-05-11 at 15 02 19_53b4c87c](https://github.com/Janani-m17/Chat-Application_MERN-Stack/assets/124059957/3ae90895-bf87-471b-b1cf-1e14ce1811d1)
+![WhatsApp Image 2024-05-11 at 14 39 21_4217d336](https://github.com/Janani-m17/Chat-Application_MERN-Stack/assets/124059957/8ed0ecb2-56a5-49de-b343-a3eebcfe393f)
 ![WhatsApp Image 2024-05-11 at 14 46 43_cb658539](https://github.com/Janani-m17/Chat-Application_MERN-Stack/assets/124059957/4de50f83-1291-43aa-846e-3abdf23c4103)
 
 
